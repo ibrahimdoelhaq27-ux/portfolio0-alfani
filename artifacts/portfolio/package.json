@@ -1,0 +1,10 @@
+{
+  "name": "@workspace/portfolio",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npx --yes serve static -l $PORT --no-clipboard",
+    "build": "echo 'Static site — no build needed'",
+    "typecheck": "echo 'Static site — no typecheck needed'"
+  }
+}
